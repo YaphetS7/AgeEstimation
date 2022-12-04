@@ -14,3 +14,6 @@ In this work:
 * Inference pipeline for the model proposed in the [article](https://arxiv.org/pdf/2103.02140.pdf) has been implemented. The (partial) implementation and the pre-trained model were taken from the [official github](https://github.com/SanyeungWang/PML) of the authors of the article
 * The model is wrapped in a telegram bot  
 
+### Demo
+Use colab notebook [AgeEstimation_tg_bot.ipynb](https://github.com/YaphetS7/AgeEstimation/blob/main/AgeEstimation_tg_bot.ipynb) for demo of the project
+
