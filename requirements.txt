@@ -1,0 +1,12 @@
+pytelegrambotapi
+csv
+numpy
+os
+PIL
+torchvision
+scipy
+math
+cv2
+functools
+shutil
+facenet_pytorch==2.5.2
